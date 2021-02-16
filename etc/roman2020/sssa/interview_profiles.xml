@@ -1,0 +1,552 @@
+<assistance>
+	
+	<element id="p0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CognitiveProfile">
+	
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Patient">
+			Profile0
+		</element>
+
+		<element id="m0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+		<element id="m2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MentalFunctionOfLanguage" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+		<element id="m7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Communication" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				1
+			</element>
+		</element>
+
+		<element id="m8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Speaking" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Writing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+	</element>
+	
+	
+	<element id="p1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CognitiveProfile">
+	
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Patient">
+			Profile1
+		</element>
+
+		<element id="m0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MentalFunctionOfLanguage" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Communication" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Speaking" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Writing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+	</element>
+	
+	
+	<element id="p2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CognitiveProfile">
+	
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Patient">
+			Profile2
+		</element>
+
+		<element id="m0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				1
+			</element>
+		</element>
+
+		<element id="m1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MentalFunctionOfLanguage" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				1
+			</element>
+		</element>
+
+		<element id="m6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Communication" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Speaking" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Writing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+	</element>
+	
+	<element id="p3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CognitiveProfile">
+	
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Patient">
+			Profile3
+		</element>
+
+		<element id="m0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+		<element id="m4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MentalFunctionOfLanguage" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				1
+			</element>
+		</element>
+
+		<element id="m6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Communication" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Speaking" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Writing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+	</element>
+	
+	<element id="p4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CognitiveProfile">
+	
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Patient">
+			Profile4
+		</element>
+
+		<element id="m0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				1
+			</element>
+		</element>
+
+		<element id="m1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MentalFunctionOfLanguage" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				1
+			</element>
+		</element>
+
+		<element id="m6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Communication" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Speaking" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Writing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+	</element>
+	
+	<element id="p6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CognitiveProfile">
+	
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Patient">
+			Profile6
+		</element>
+
+		<element id="m0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MentalFunctionOfLanguage" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Communication" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Speaking" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Writing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+	</element>
+	
+	<element id="p7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CognitiveProfile">
+	
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Patient">
+			Profile7
+		</element>
+
+		<element id="m0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				1
+			</element>
+		</element>
+
+		<element id="m1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+		<element id="m2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+		<element id="m3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+		<element id="m4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MentalFunctionOfLanguage" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+
+		<element id="m7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Communication" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+
+		<element id="m8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Speaking" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+
+		<element id="m9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Writing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+
+	</element>
+	
+	
+</assistance>

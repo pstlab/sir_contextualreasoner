@@ -1,0 +1,1764 @@
+<portfolio id="portfolio13">
+	<element id="s0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s10" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s11" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s12" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s13" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s14" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s15" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s16" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s17" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s18" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s19" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s20" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s21" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s22" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s23" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s24" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s25" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s26" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s27" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s28" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s29" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s30" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s31" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s32" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s33" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s34" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s35" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s36" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s37" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s38" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s39" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s40" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s41" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s42" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s43" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s44" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s45" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s46" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s47" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s48" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s49" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s50" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s51" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s52" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s53" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s54" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s55" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s56" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s57" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s58" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s59" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s60" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s61" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s62" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s63" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s64" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s65" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s66" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s67" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s68" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s69" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s70" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s71" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s72" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s73" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s74" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s75" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s76" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s77" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s78" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s79" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s80" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s81" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s82" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s83" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s84" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s85" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s86" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s87" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s88" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s89" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s90" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s91" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s92" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s93" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s94" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s95" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s96" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+	</element>
+
+	<element id="s97" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s98" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s99" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s100" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s101" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s102" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s103" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s104" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s105" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s106" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+	</element>
+
+	<element id="s107" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s108" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s109" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s110" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s111" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s112" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s113" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s114" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s115" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s116" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+	</element>
+
+	<element id="s117" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s118" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s119" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s120" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s121" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s122" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s123" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s124" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s125" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s126" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s127" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s128" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s129" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s130" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s131" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s132" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s133" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s134" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s135" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s136" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s137" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s138" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s139" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s140" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s141" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s142" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s143" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s144" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s145" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s146" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s147" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s148" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s149" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s150" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s151" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s152" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s153" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s154" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+	</element>
+
+	<element id="s155" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s156" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s157" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s158" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s159" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s160" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s161" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s162" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s163" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s164" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s165" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s166" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s167" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s168" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s169" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s170" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s171" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s172" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s173" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s174" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s175" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s176" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s177" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s178" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s179" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+	</element>
+
+	<element id="s180" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+	</element>
+
+	<element id="s181" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+	</element>
+
+	<element id="s182" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s183" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s184" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s185" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s186" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s187" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s188" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s189" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s190" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s191" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s192" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s193" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s194" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s195" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s196" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+
+	<element id="s197" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s198" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s199" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s200" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s201" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s202" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s203" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s204" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s205" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s206" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s207" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s208" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s209" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s210" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s211" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s212" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s213" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s214" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s215" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s216" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s217" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s218" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s219" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s220" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s221" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s222" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s223" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s224" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s225" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s226" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+	</element>
+
+	<element id="s227" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s228" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s229" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s230" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s231" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s232" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s233" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s234" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s235" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s236" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s237" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s238" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s239" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s240" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s241" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s242" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s243" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s244" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s245" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+	<element id="s246" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s247" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s248" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s249" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s250" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s251" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s252" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+	</element>
+
+	<element id="s253" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s254" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+	</element>
+
+	<element id="s255" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s256" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s257" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s258" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s259" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+	<element id="s260" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s261" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s262" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s263" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s264" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s265" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s266" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+	</element>
+
+	<element id="s267" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s268" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s269" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s270" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s271" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s272" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+
+	<element id="s273" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s274" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s275" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ChangingBasicBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s276" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s277" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s278" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s279" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s280" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s281" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+
+	<element id="s282" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+	<element id="s283" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+	</element>
+
+	<element id="s284" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s285" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s286" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s287" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#EmotionalStimulationFunction" />
+	</element>
+
+	<element id="s288" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+	</element>
+
+	<element id="s289" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ListeningStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s290" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s291" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s292" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+
+	<element id="s293" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ExperienceOfSelfAndTimeStimulationFunction" />
+	</element>
+
+	<element id="s294" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+	</element>
+
+	<element id="s295" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PerceptualStimulationFunction" />
+	</element>
+
+	<element id="s296" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+	</element>
+
+	<element id="s297" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HandUseStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ReadingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WatchingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+	</element>
+
+	<element id="s298" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolvingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+	</element>
+
+	<element id="s299" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MaintainingBodyPositionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LiftingAndCarryingObjectsStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#DecisionMakingStimulationFunction" />
+	</element>
+
+</portfolio>

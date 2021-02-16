@@ -1,0 +1,75 @@
+<portfolio id="portfolio0">
+
+
+	<element id="s1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="A">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LongTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+	
+	
+	
+	
+	<element id="s2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="B">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+	
+	
+	
+	
+	<element id="s3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="C">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShortTermMemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+	
+	
+	
+	
+	<element id="s4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="D">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+	
+	
+	
+	
+	
+	<element id="s5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="E">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+	</element>
+	
+	
+	
+	
+	<element id="s6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="F">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#RetrievalProcessingStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#WorkingMemoryStimulationFunction" />
+	</element>
+	
+	
+	
+	
+	<element id="s7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="G">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#SustainingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AbstractionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MentalFunctionOfLanguageStimulationFunction" />
+	</element>
+	
+	
+	
+	
+	<element id="s8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="H">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#PlanningStimulationFunction" />
+	</element>
+	
+	
+	
+	
+	<element id="s9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="I">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ShiftingAttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FlexibilityStimulationFunction" />
+	</element>
+
+</portfolio>

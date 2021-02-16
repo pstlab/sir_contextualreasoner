@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<portfolio id="portfolio001">
+
+
+	<element id="s1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionStimulationFunction" />
+	</element>
+	
+	<element id="s2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+	
+	
+	<element id="s3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryStimulationFunction" />
+	</element>
+	
+	<element id="s4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+
+	<element id="s5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryStimulationFunction" />
+	</element>
+
+</portfolio>
+
+
+

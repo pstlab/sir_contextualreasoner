@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assistance id="0x0184e8a0">
+
+	<element id="p1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CognitiveProfile">
+		
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Patient">
+			Example Patient
+		</element>
+		
+		<element id="m1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				1
+			</element>
+		</element>
+		
+		<element id="m2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+		
+		
+		<element id="m3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationFunction" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+		
+		<element id="m4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Walking" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				4
+			</element>
+		</element>
+		
+		<element id="m5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Hearing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				3
+			</element>
+		</element>
+		
+		<element id="m6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Seeing" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				0
+			</element>
+		</element>
+		
+		<element id="m7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Measurement">
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#ProblemSolving" />
+			<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#FunctioningQualityRegion">
+				2
+			</element>
+		</element>
+	
+	
+	</element>
+
+</assistance>
+
+
+

@@ -1,0 +1,61 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>it.cnr.istc.pst</groupId>
+  <artifactId>sir_contextualreasoner</artifactId>
+  <version>0.0.1</version>
+  <packaging>jar</packaging>
+
+  <name>SIR Contextual Reasoner</name>
+  <description>SIR - Contextual Reasoner supporting user personalization</description>
+  
+  <properties>
+    <maven.compiler.target>8</maven.compiler.target>
+    <maven.compiler.source>8</maven.compiler.source>
+    <maven.compiler.release>8</maven.compiler.release>
+    <skipTests>true</skipTests>
+  </properties>
+  
+  <repositories>
+		
+		<repository>
+			<id>github.koalar</id>
+			<name>GitHub PSTLab KOaLaR Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/pstlab/KOaLaR</url>
+		</repository>
+		
+	</repositories>
+  
+  <dependencies>
+    <dependency>
+  		<groupId>org.apache.jena</groupId>
+  		<artifactId>jena-core</artifactId>
+  		<version>3.15.0</version>
+  	</dependency>
+  	<dependency>
+	    <groupId>junit</groupId>
+	    <artifactId>junit</artifactId>
+	    <version>3.8.2</version>
+	    <scope>test</scope>
+	</dependency>
+
+    <dependency>
+	  <groupId>it.cnr.istc.pst</groupId>
+	  <artifactId>koalar</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+	</dependency>
+	
+  </dependencies>
+  
+  <distributionManagement>
+  	<repository>
+  		<id>github</id>
+  		<name>GitHub SIR PSTLab Apache Maven Package</name>
+  		<url>https://maven.pkg.github.com/pstlab/SIR</url>
+  	</repository>
+  
+  </distributionManagement>
+  
+</project>

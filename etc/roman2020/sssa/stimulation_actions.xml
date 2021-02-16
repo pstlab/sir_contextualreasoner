@@ -1,0 +1,48 @@
+<portfolio id="portfolio0">
+
+
+	<element id="s0" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Fee and Cue Selective Reminding Test">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryStimulationFunction" />
+	</element>
+	
+	<element id="s1" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Rey's Figure Test">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryStimulationFunction" />
+	</element>
+	
+	<element id="s2" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Forward Digit Test">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+	
+	<element id="s3" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Backward Digit Span Test">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#MemoryStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#CalculationStimulationFunction" />
+	</element>
+	
+	<element id="s4" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Trailing Making Test form A">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveStimulationFunction" />
+	</element>
+	
+	<element id="s5" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Trailing Making Test form B">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#AttentionStimulationFunction" />
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#HigherLevelCognitiveStimulationFunction" />
+	</element>
+	
+	<element id="s6" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Stroop Test">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#OrientationStimulationFunction" />
+	</element>
+	
+	<element id="s7" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Boston Naming Test 40-item">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+	
+	<element id="s8" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Animals Test">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+	
+	<element id="s9" type="http://pst.istc.cnr.it/ontologies/2020/01/sir#Stimulus" name="Denomination Test">
+		<element type="http://pst.istc.cnr.it/ontologies/2020/01/sir#LanguageStimulationFunction" />
+	</element>
+
+</portfolio>
